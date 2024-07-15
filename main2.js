@@ -3,7 +3,7 @@ const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const axios = require('axios');
 
-const token = "MTI1NjQ5Nzg4NDc2NjAxMTUzNA.G1Z9G7.kRJew-60bJrS0HRz7k9AVECM3eKOLjrycFgR3A";
+const token = "";
 const clientId = "1256497884766011534";
 const botstatus = "Kurumi Bypass";
 const madeby = "Hoàng Long Calisthenic";
